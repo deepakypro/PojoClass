@@ -13,7 +13,6 @@ public class BitmapTransform implements Transformation {
     private final int maxWidth;
     private final int maxHeight;
 
-    int i=10;
     public BitmapTransform(int maxWidth, int maxHeight) {
         this.maxWidth = maxWidth;
         this.maxHeight = maxHeight;
